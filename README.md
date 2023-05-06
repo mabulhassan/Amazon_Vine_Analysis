@@ -23,14 +23,15 @@ There were a total of 613 vine reviews and 64,968 non vine reviews.
 <p align="center">
   <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/total_none_vine_df_count.png">
 </p>
+
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 There were a total 222 of vine 5-star reviews and 30,543 total of none vine 5-star reviews.
 <p>
-  <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/total_five_start_vine_df_count.png">
+  <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/total_five_start_vine_df.png">
 </p>
 <p align="center">
-  <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/total_five_star_none_vine_df_count.png">
+  <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/total_five_star_none_vine_df.png">
 </p>
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
