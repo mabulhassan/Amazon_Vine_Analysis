@@ -40,7 +40,7 @@ The were a total of 36.2% of vine reviews that were 5 stars and 47% of non-vine 
   <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/five_star_vine_percent.png">
 </p>
 <p align="center">
-  <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/five_none_star_vine_percent.png">
+  <img src="https://github.com/mabulhassan/Amazon_Vine_Analysis/blob/main/five_star_none_vine_percent.png">
 </p>
 
 
